@@ -1,5 +1,5 @@
 {
-  "name": "@sklyer-ab/discord-info",
+  "name": "discord-information",
   "version": "1.0.0",
   "description": "This tool will scrape data from users/guilds using the discord api",
   "main": "./src/handler.js",

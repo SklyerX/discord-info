@@ -42,7 +42,7 @@ token : Account Token
 ## Example:
 
 ```js
-const dscinfo = require("@sklyerX/discord-info");
+const dscinfo = require("@sklyerX/discord-information");
 
 const dsc = dscinfo.Bot.userData({ token: "bot token", id: "account you want to fetch" });
 
@@ -62,13 +62,13 @@ console.log(dsc)
 // }
 
 ```
-Or Visit The [Test](https://github.com/hadiazt/discord-info/blob/main/index.test.js) File 
+Or Visit The [Test](https://github.com/SklyerX/discord-info/blob/main/index.test.js) File 
 
 </br>
 
 # Every usage:
 ```js
-const dscinfo = require("@sklyerX/discord-info");
+const dscinfo = require("@sklyerX/discord-information");
 
 const dsc = dscinfo.Bot.userData({ token: "bot token", id: "account you want to fetch" });
 
@@ -89,7 +89,7 @@ console.log(dsc)
 ```
 
 ```js
-const dscinfo = require("@sklyerX/discord-info");
+const dscinfo = require("@sklyerX/discord-information");
 
 const dsc = dscinfo.Bot.userDataPretty(
     {
@@ -121,7 +121,7 @@ console.log(dsc)
 ```
 
 ```js
-const dscinfo = require("@sklyerX/discord-info");
+const dscinfo = require("@sklyerX/discord-information");
 
 const dsc = dscinfo.Invite("inviteCode");
 
@@ -153,7 +153,7 @@ console.log(dsc)
 // nsfwLevel: level
 ```
 ```js
-const dscinfo = require("@sklyerX/discord-info");
+const dscinfo = require("@sklyerX/discord-information");
 
 const dsc = dscinfo.UserId.userData({ token: "account token", id: "account you want to fetch" });
 
@@ -174,7 +174,7 @@ console.log(dsc)
 ```
 
 ```js
-const dscinfo = require("@sklyerX/discord-info");
+const dscinfo = require("@sklyerX/discord-information");
 
 const dsc = dscinfo.UserId.userDataPretty(
     {
@@ -206,7 +206,7 @@ console.log(dsc)
 ```
 
 ```js
-const dscinfo = require("@sklyerX/discord-info");
+const dscinfo = require("@sklyerX/discord-information");
 
 const dsc = dscinfo.UserToken.user({ token: "accaount token" });
 
@@ -258,7 +258,7 @@ console.log(dsc)
 //phone: number
 ```
 ```js
-const dscinfo = require("@sklyerX/discord-info");
+const dscinfo = require("@sklyerX/discord-information");
 
 const dsc = dscinfo.UserToken.userGuild({ token: "accaount token" });
 

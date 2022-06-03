@@ -343,7 +343,7 @@ console.log(dsc)
 
 <br/>
 
-# 🌟 Spread the word!
+# 🌟 Spread the word!!
 
 If you want to say thank you and/or support active development of the repo:
 - Add a GitHub Star to the project!

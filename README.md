@@ -4,7 +4,7 @@
 Discord Info
 </h1>
 <h3 align="center">An <a href="https://nodejs.org/">NODE</a> Module For Getting Data From Discord API
-  Called <a href="https://www.npmjs.com/package/discord-info">Discord Info</a></h3>
+  Called <a href="https://www.npmjs.com/package/discord-information">Discord Info</a></h3>
 
 # 
 ## Functions :
@@ -334,7 +334,7 @@ console.log(dsc)
 <br/>
 
 ## 🤝 Contributing
-1. [Fork the repository](https://github.com/hadiazt/discord-info/fork)
+1. [Fork the repository](https://github.com/SklyerX/discord-info/fork)
 2. Clone your fork: `git clone https://github.com/your-username/discord-info.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
@@ -347,7 +347,7 @@ console.log(dsc)
 
 If you want to say thank you and/or support active development of the repo:
 - Add a GitHub Star to the project!
-- Follow my profile [hadi-az](https://github.com/SklyerX)
+- Follow my profile [SklyerX](https://github.com/SklyerX)
 
 Thanks so much for your interest in growing the reach of the repo!
 

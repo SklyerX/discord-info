@@ -1,0 +1,32 @@
+{
+  "name": "@sklyerx/discord-info",
+  "version": "1.0.0",
+  "description": "This tool will scrape data from users/guilds using the discord api",
+  "main": "./src/handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SklyerX/discord-info.git"
+  },
+  "keywords": [
+    "disocrd",
+    "info",
+    "guild",
+    "user",
+    "data"
+  ],
+  "author": "ba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SklyerX/discord-info/issues"
+  },
+  "homepage": "https://github.com/SklyerX/discord-info#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "json-hood": "^1.1.4",
+    "request": "^2.88.2"
+  }
+}

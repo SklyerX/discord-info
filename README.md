@@ -4,7 +4,7 @@
 Discord Info
 </h1>
 <h3 align="center">An <a href="https://nodejs.org/">NODE</a> Module For Getting Data From Discord API
-  Called <a href="https://www.npmjs.com/package/discord-info">Discord Info</a></h3>
+  Called <a href="https://www.npmjs.com/package/discord-information">Discord Info</a></h3>
 
 # 
 ## Functions :
